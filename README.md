@@ -9,7 +9,10 @@ and compute shortest paths on an interactive graph (Dijkstra / BFS).
 ![SQLite](https://img.shields.io/badge/SQLite-JDBC-003B57?logo=sqlite)
 ![Maven](https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven)
 
-![Demo](docs/screenshots/demo.gif)
+
+https://github.com/user-attachments/assets/8ee9c1ab-f420-4fd9-b6a4-12f220193066
+
+
 
 ---
 
